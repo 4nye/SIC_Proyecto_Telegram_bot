@@ -17,7 +17,7 @@ L_league=["La-Liga", "Ligue-1", "Premier-League", "Serie-A", "Bundesliga"]
 L_value=["1000000","5000000","20000000","60000000","180000000"]
    
 #credenciales del csv
-sheetConfig=SheetsService("footrade-telegram-bot-c123ba1fc8fc.json")
+sheetConfig=SheetsService("footrade-telegram-bot-0450121faf53.json")
 sheet= sheetConfig.get_sheet_by_id(SHEET_ID) 
 
 
