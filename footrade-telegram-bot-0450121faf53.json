@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "footrade-telegram-bot",
-  "private_key_id": "0450121faf5374d4f809a3df522d7e2d42258534",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCy1rX0yNZ93vRH\nDjOiMjFAQZ5VT8xew2kb/wMsFxO/rIChloxna5c1Z9D9uumvUThuaYhG4T0qfm4V\nftJ1oARi4b15ZaJbPGHC07dozrjGzvg9CUezTTRcTp9ULz//uWfsL75HIfJicwpY\ncRSX51o9gQlpzR+h0eRcu4Pa3T5Ikd5LQ2wNjcbAHDmeE0uzB8Elsiz2JI9v9pZf\nu4tPrVKxVXrLnekutHsFQGahrcUIGQil2cWHjC3dm5834Riiks3xqKciog+386+7\nyn+p86xej4TbvM2MY6wq/HB5mt1MXO51+n0uYKnfdW91HK4Zy3DDoRipDl0gMA1z\nVeh6942vAgMBAAECggEATQEsqfEMgnhM4IeZ7f4EvPFENuG8UxV7HcXpXMO3CjJB\n1NIZNLLcEe/YylgAJTAox0oDltmHV9PGnNTV1DYJjXY7+pirlvNh+NzmvWc9osUd\nmFJ1oBvfLtvfuQT7XqY7vDQ2jzRrxL5aNwjB4EKK1a7JGdhsBWZ2GQPY25WmKuKD\niVwcEcxyYo/4RjZ8BZC5qBcteA4eIMufyD/9jVsK5va1IWljJjEsGdk8p+MulLhh\nFiCfx9x+zx0f0K5/Z7jVbYPhtBJ1H9LcbhDJ5px2IHsw5fDAQ2890XuLUjSUQpJS\nFbRFzdBO8ETXZt8e1OwcSZkKMlF2+7x2RK+mV+kMMQKBgQDlbwhPsxc2Fq0qZMNQ\nSV4iGcL4TaLB8H4jZkp0tev2X9vdsyq4TS2iF1T/ajA3Yh4pmrSalrwb2wcRyyqY\nMJAlDPXaIKHElQH4BWi/1hCfxR+JO1JemjQBNqJcz2Yg4Zf5V+H0nwrkDI9KXwuV\n6kFjFMEBJa6t3J89wDchHDUbmQKBgQDHi+uqCgboDSh0T3fcKy14ZJYmnOFv4sFy\nCoa1WxJ4XAUoI7QYZlPQtcU+AIHSag0k0ewY5GsFfD6Bj3SX9S3JRI70q6vlVD21\n7Qm+PIl+aCpAueI+gBo6hRTqFzJdMB0/lFqZeBnT7zk1zu3jnReSvktsYvsn+QuG\n4yN3/GYAhwKBgQCpTbLbZTOmpTspgmuiTlGZZls6cce9x2K9aplc4HX8O6Z6ReEr\nWUBoUUFWrRxhchUB7HiDbuHmyEzCM6L95TApNxQg312gO7jVNeCjVyqzS3pHATB6\nQN5JWvCa/izF7NMBm3lQ0x/tQttmLRbWjKOtor39w7nP8HLN1Y6Y70C9WQKBgQDD\nDjT47ABASMxolV22q8YwzzIu4F9FfURW848mK7XsTRcFW5Ep4KzBcU0zBE/inKPo\ngALnejBbFk4LW20/NPzips+Ov1iyPRxtfx1tBcPo+m2DA7DyI0qANaJyCObETMnq\nYlwFdG7ayhcEUBgdzGtEmBsmAcM8Gad43QLIwMH8dQKBgQCHEbMkPsPA4W7wjtIG\nu+Dj8jWoO/EyLmv5/r1sPKMu8te93+0V3k7x2KC2n95D7RHU9P0pmM4za81hjF8v\nXiQT6ZBJ8dAj5FkXrDnslwYeqI+BzrRzXcprCD8B1/tAjoDNwWMMGX0vytJw/aEG\nz7lvfbGXwDDqBih2Zqm2GFhsbQ==\n-----END PRIVATE KEY-----\n",
-  "client_email": "footrade-telegram-bot@footrade-telegram-bot.iam.gserviceaccount.com",
-  "client_id": "101180967033963258948",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/footrade-telegram-bot%40footrade-telegram-bot.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
