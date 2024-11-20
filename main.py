@@ -10,7 +10,7 @@ import pandas as pd
 #Constantes
 SHEET_ID = "1TF6WowBqd2DSielZoNMwK_pIWnU-9WZBOx09RuE8sf4"
 BOT_TOKEN = "7973933074:AAERhA0iLihF2y-J0f4uZP_5-gpyrJBjx2w"
-Mascota_del_proyecto="https://postimg.cc/SYJ6Wyww"
+Mascota_del_proyecto="https://postimg.cc/4K8nHMD4"
 
 L_pos=["DF", "MF", "FW", "GK", "MF,FW" ,"FW,MF", "MF,DF", "DF,FW", "FW,DF", "DF,MF"]
 L_league=["La-Liga", "Ligue-1", "Premier-League", "Serie-A", "Bundesliga"]
@@ -43,6 +43,14 @@ clog_list=0
 #Controladores
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
+   global pag, band2, pag2, band_F,band, Filt
+
+   pag=0
+   band2=False
+   pag2=0
+   band_F=False
+   band=False
+   Filt=[" "," "," "]
    
    (Menu_text, reply_markup)= MenuTemplate.get_principal_menu_view()
 
