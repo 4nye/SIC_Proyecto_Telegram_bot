@@ -13,7 +13,7 @@ class MenuTemplate:
         menu_view_text="**Menu Principal**"
         
         keyboard=[
-            [InlineKeyboardButton("💱 Ver Catalogo", callback_data=Routes.Catalog), InlineKeyboardButton("👁‍🗨 Conocenos", callback_data= Routes.Meet_us)]
+            [InlineKeyboardButton("💱 Ver Catalogo", callback_data=Routes.Catalog), InlineKeyboardButton("👁‍🗨 Documentacion",url="https://github.com/4nye/SIC_Proyecto_Telegram_bot/tree/cat")]
         ]
 
         reply_markup=InlineKeyboardMarkup(keyboard)
